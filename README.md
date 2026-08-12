@@ -47,10 +47,11 @@ unset CYCLONEDDS_URI
 export ROS_DOMAIN_ID=7
 export ROS_LOCALHOST_ONLY=0
 
-
+```
 Menjalankan Cyclone DDS
 **## Menjalankan Cyclone DDS**
 
+```bash
 source /opt/ros/kilted/setup.bash
 source ~/ros2_ws/install/setup.bash
 
