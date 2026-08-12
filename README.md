@@ -49,7 +49,7 @@ export ROS_LOCALHOST_ONLY=0
 
 
 ```
-**## Menjalankan Cyclone DDS**
+## Menjalankan Cyclone DDS
 
 Gunakan konfigurasi middleware Cyclone DDS:
 
